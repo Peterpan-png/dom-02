@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["api","JQuery","find","addClass"],"mappings":"AAAA,IAAMA,GAAG,GAAGC,MAAM,CAAC,QAAD,CAAN,CAAiBC,IAAjB,CAAsB,QAAtB,EAAgCC,QAAhC,CAAyC,MAAzC,EAAiDA,QAAjD,CAA0D,OAA1D,CAAZ","file":"main.1f19ae8e.js","sourceRoot":"..\\src","sourcesContent":["const api = JQuery('.test2').find('.child').addClass('blue').addClass('green')"]}

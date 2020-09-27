@@ -1,0 +1,1 @@
+const api = JQuery('.test2').find('.child').addClass('blue').addClass('green')
